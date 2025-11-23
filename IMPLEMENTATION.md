@@ -9,3 +9,15 @@
  -how does pair up with the existing system
  -what about trafic handling
  -hosting and maintanance
+ -what about the security
+ -what about the performance
+ -what about the scalability
+ -what about the compatibility
+ -what about the testing
+ -what about the deployment
+ -what about the maintenance
+ -what about the support
+ -what about the training
+ -what about the bug tracking and monitoring
+
+## Project outline
